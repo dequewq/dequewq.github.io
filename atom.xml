@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dequewq.github.io</id>
     <title>Ace Collins</title>
-    <updated>2024-08-10T05:51:20.409Z</updated>
+    <updated>2024-08-10T05:54:55.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dequewq.github.io"/>
     <link rel="self" href="https://dequewq.github.io/atom.xml"/>
@@ -17,18 +17,26 @@
         </link>
         <updated>2024-08-10T05:48:02.000Z</updated>
         <content type="html"><![CDATA[<h1 id="deepin-常用资源整理">deepin 常用资源整理</h1>
-<p>::: tip<br>
-本文创建于2021-05-15，当前版本发布于2024-06-04，版本号v4.1.5-1</p>
-<p>此资源整理非官方文档，由 <a href="https://bbs.deepin.org/user/217969">pzm9012</a> 发起，当前维护者还有 <a href="https://bbs.deepin.org/zh/user/284017">hanzn-zzx</a>，<a href="https://bbs.deepin.org/user/296995">阿尼樱奈奈</a>。</p>
-<p>资料来源于互联网，仅供学习交流使用，版权归原作者所有，若涉及侵权请联系我删除，解决方案仅供参考！</p>
+<blockquote>
+<p>本文创建于2021-05-15，当前版本发布于2024-06-04，版本号v4.1.5-1</p>
+</blockquote>
+<p>此资源整理非官方文档，资料来源于互联网，仅供学习交流使用，版权归原作者所有，若涉及侵权请联系我删除，解决方案仅供参考！</p>
 <h2 id="提示">💡提示</h2>
 <p>该页面的资源分类可能会有些不合理<br>
 <strong>可以借助浏览器的“在页面上查找”功能（按下 Ctrl+F）寻找你想要的资源，输入的关键词尽量简单精确</strong>。</p>
 <h2 id="一-综合">一、综合</h2>
-<h3 id="11-入门">1.1 入门</h3>
-<blockquote>
-<p>也可以看看其他用户使用 deepin 的<a href="/deepin-src-col/main.html#_6-1-%E6%B5%8B%E8%AF%84%E6%84%9F%E5%8F%97">测评感受</a>。</p>
-</blockquote>
+<h3 id="11-朋友们的博客">1.1 朋友们的博客</h3>
+<ol>
+<li>DOSU Community：<a href="https://www.deepinos.org/">https://www.deepinos.org/</a></li>
+<li>青菜芋子的博客：<a href="https://loafing.cn/tags/Deepin/">https://loafing.cn/tags/Deepin/</a></li>
+<li>shenmo的世界：<a href="https://blog.shenmo.tech/">https://blog.shenmo.tech/</a></li>
+<li>ManateeLazyCat（老王）的博客：<a href="https://manateelazycat.github.io">https://manateelazycat.github.io</a></li>
+<li>pzm9012 的小站：<a href="https://pzm9012.github.io/">https://pzm9012.github.io/</a></li>
+<li>青稚的空间： <a href="https://linux-qitong.gitee.io/">https://linux-qitong.gitee.io/</a></li>
+<li>hanzn-zzx的博客：<a href="https://hanzn-zzx.gitlab.io">https://hanzn-zzx.gitlab.io/</a></li>
+<li>阿尼樱奈奈的博客：<a href="https://aninana.github.io/">https://aninana.github.io/</a></li>
+</ol>
+<h3 id="12-入门">1.2 入门</h3>
 <ol>
 <li>统信UOS家庭版｜新手安装锦囊：<a href="https://bbs.chinauos.com/post/8738">https://bbs.chinauos.com/post/8738</a></li>
 <li>写给deepin小白的入门教程：<a href="https://bbs.deepin.org/zh/post/209755">https://bbs.deepin.org/zh/post/209755</a></li>
@@ -37,7 +45,7 @@
 <li>deepin小白的问题归纳及其他：<a href="https://bbs.deepin.org/post/241961">https://bbs.deepin.org/post/241961</a></li>
 <li>deepinos-基础配置：<a href="https://bbs.deepin.org/post/261052">https://bbs.deepin.org/post/261052</a></li>
 </ol>
-<h3 id="12-知识汇总">1.2 知识汇总</h3>
+<h3 id="13-知识汇总">1.3 知识汇总</h3>
 <ol>
 <li>助力UOS总站：<a href="https://bbs.deepin.org/zh/post/221599">论坛页面</a>  <a href="https://docs.qq.com/mind/DWkJ4VlBXelRLWnVV">腾讯文档页面</a></li>
 <li>深度易经：<a href="https://github.com/bubifengyun/deepin-bible">https://github.com/bubifengyun/deepin-bible</a> （<a href="https://bbs.deepin.org/zh/user/16639">作者</a>）  <a href="https://kdocs.cn/l/su4SlUCbOPtj">金山文档转存链接</a></li>
@@ -51,17 +59,6 @@
 <li>学习编程区资源整理（第一期·持续更新中）：<a href="https://bbs.deepin.org/zh/post/255506">https://bbs.deepin.org/zh/post/255506</a></li>
 <li>Linux知识分享：<a href="https://bbs.deepin.org/post/266002">https://bbs.deepin.org/post/266002</a></li>
 <li>deepin 及常用软件的高频问题和解决方法：<a href="https://bbs.deepin.org/post/272867">https://bbs.deepin.org/post/272867</a></li>
-</ol>
-<h3 id="13-博客等">1.3 博客等</h3>
-<ol>
-<li>DOSU Community：<a href="https://www.deepinos.org/">https://www.deepinos.org/</a></li>
-<li>青菜芋子的博客：<a href="https://loafing.cn/tags/Deepin/">https://loafing.cn/tags/Deepin/</a></li>
-<li>shenmo的世界：<a href="https://blog.shenmo.tech/">https://blog.shenmo.tech/</a></li>
-<li>ManateeLazyCat（老王）的博客：<a href="https://manateelazycat.github.io">https://manateelazycat.github.io</a></li>
-<li>pzm9012 的小站：<a href="https://pzm9012.github.io/">https://pzm9012.github.io/</a></li>
-<li>青稚的空间： <a href="https://linux-qitong.gitee.io/">https://linux-qitong.gitee.io/</a></li>
-<li>hanzn-zzx的博客：<a href="https://hanzn-zzx.gitlab.io">https://hanzn-zzx.gitlab.io/</a></li>
-<li>阿尼樱奈奈的博客：<a href="https://aninana.github.io/">https://aninana.github.io/</a></li>
 </ol>
 <h2 id="二-系统">二、系统</h2>
 <h3 id="21-系统安装">2.1 系统安装</h3>
