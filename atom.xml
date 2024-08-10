@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dequewq.github.io</id>
-    <title>Gridea</title>
-    <updated>2024-08-10T04:41:37.468Z</updated>
+    <title>Ace Collins</title>
+    <updated>2024-08-10T04:55:46.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dequewq.github.io"/>
     <link rel="self" href="https://dequewq.github.io/atom.xml"/>
     <subtitle>因理想而出生，为责任而成长</subtitle>
     <logo>https://dequewq.github.io/images/avatar.png</logo>
     <icon>https://dequewq.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2024, Gridea</rights>
+    <rights>All rights reserved 2024, Ace Collins</rights>
     <entry>
         <title type="html"><![CDATA[Hello]]></title>
         <id>https://dequewq.github.io/post/hello/</id>
