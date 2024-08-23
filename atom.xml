@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dequewq.github.io</id>
-    <title>Ace Collins</title>
-    <updated>2024-08-23T12:20:27.439Z</updated>
+    <title>墨梅开源软件工作室</title>
+    <updated>2024-08-23T12:25:00.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dequewq.github.io"/>
     <link rel="self" href="https://dequewq.github.io/atom.xml"/>
     <subtitle>因理想而出生，为责任而成长</subtitle>
     <logo>https://dequewq.github.io/images/avatar.png</logo>
     <icon>https://dequewq.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2024, Ace Collins</rights>
+    <rights>All rights reserved 2024, 墨梅开源软件工作室</rights>
     <entry>
         <title type="html"><![CDATA[Deepin常用资源整理]]></title>
         <id>https://dequewq.github.io/post/deepin-chang-yong-zi-yuan-zheng-li/</id>
