@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dequewq.github.io</id>
     <title>墨梅开源软件工作室</title>
-    <updated>2024-08-23T12:27:35.911Z</updated>
+    <updated>2024-09-07T10:50:13.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dequewq.github.io"/>
     <link rel="self" href="https://dequewq.github.io/atom.xml"/>
@@ -10,6 +10,86 @@
     <logo>https://dequewq.github.io/images/avatar.png</logo>
     <icon>https://dequewq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, 墨梅开源软件工作室</rights>
+    <entry>
+        <title type="html"><![CDATA[Markdown基础语法示例]]></title>
+        <id>https://dequewq.github.io/post/NwI7Bwiu4/</id>
+        <link href="https://dequewq.github.io/post/NwI7Bwiu4/">
+        </link>
+        <updated>2024-09-07T10:25:22.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>你好</p>
+</blockquote>
+<h1 id="h1">H1</h1>
+<h2 id="h2">H2</h2>
+<h3 id="h3">H3</h3>
+<ul>
+<li>这是第一点</li>
+<li>这是第二点</li>
+<li>这是第三点</li>
+</ul>
+<p><em>你好</em><br>
+<strong>你好</strong><br>
+<s>你好</s><br>
+墨梅开源软件工作室<sup>TM</sup><br>
+墨梅开源软件工作室<sup><em>TM</em></sup><br>
+墨梅开源软件工作室<sub>TM</sub><br>
+墨梅开源软件工作室<sub><strong>TM</strong></sub><br>
+<s><strong><em>反帝国主义！！！</em></strong></s></p>
+<hr>
+<details>
+<summary>点击查看更多</summary>
+<p><strong>墨梅开源软件工作室</strong></p>
+<details>
+<pre><code>我是宏彦
+Powered By Ace Collins
+</code></pre>
+<pre><code class="language-python">import tk
+print(&quot;Hello World&quot;)
+</code></pre>
+<p><a href="https://ace-collins.github.io">Ace的博客</a></p>
+<figure data-type="image" tabindex="1"><img src="https://avatars.githubusercontent.com/u/155808868?v=4" alt="这是我的头像PNG" loading="lazy"></figure>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Table Heading 1</th>
+<th style="text-align:left">Table Heading 2</th>
+<th style="text-align:center">Center align</th>
+<th style="text-align:right">Right align</th>
+<th style="text-align:left">Table Heading 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Item 1</td>
+<td style="text-align:left">Item 2</td>
+<td style="text-align:center">Item 3</td>
+<td style="text-align:right">Item 4</td>
+<td style="text-align:left">Item 5</td>
+</tr>
+<tr>
+<td style="text-align:left">Item 1</td>
+<td style="text-align:left">Item 2</td>
+<td style="text-align:center">Item 3</td>
+<td style="text-align:right">Item 4</td>
+<td style="text-align:left">Item 5</td>
+</tr>
+<tr>
+<td style="text-align:left">Item 1</td>
+<td style="text-align:left">Item 2</td>
+<td style="text-align:center">Item 3</td>
+<td style="text-align:right">Item 4</td>
+<td style="text-align:left">Item 5</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>这是一个水平线</p>
+<hr>
+<pre><code class="language-diff">+ Green
+- Red
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deepin常用资源整理]]></title>
         <id>https://dequewq.github.io/post/deepin-chang-yong-zi-yuan-zheng-li/</id>
